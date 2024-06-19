@@ -12,7 +12,8 @@ For the model assessment, a folder named `data` must be avilable containing the 
 - `oral2_val_features.json`
 
 
-- `PT_validation.py` is used to generate validation/testing results with PivotTree, both as a classifier and as a prototype selection tool
+
+`PT_validation.py` is used to generate validation/testing results with PivotTree, both as a classifier and as a prototype selection tool
 
 A folder named `dataset_stz` must be avilable containing a folder `dataset_stz/splits`, respectively containing
 - `dataset_stz/splits/training_sets`
