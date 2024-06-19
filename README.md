@@ -5,7 +5,7 @@ For feature extraction and respective feature dataframe creation, it is needed:
 - `oral_datas/` folder including `./data/images/` which store oral lesion images
 - `oral_datas/` folder which includes `train.json`,`test.json`,`val.json` files which include annotations information and reference to respective 
 
-`Doctoral_NB.ipynb` specifies the extraction process
+`Doctoral_NB.ipynb` specifies the extraction process.
 
 
 For the model assessment, a folder named `data` must be avilable containing the dataset containing feature emebedding from the Detectron2 architecture:
