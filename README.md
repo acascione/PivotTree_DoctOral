@@ -26,6 +26,10 @@ A folder named `dataset_stz` must be avilable containing a folder `dataset_stz/s
 Each folder hosts the training, validation and testing splits from the dataset taken into account. Therefore, given a dataset named `df_oral.csv`, we will have in the respective folders `train_df_oral.csv`, `validation_df_oral.csv`, `test_df_oral.csv`, where `df_oral.csv` stands for the name of the full dataset.
 
 
+`Doctoral_NB.ipynb` is the notebook used for the feature extraction process, while `Oral2_exps.ipynb` shows experimental results on test set, heatmaps and clustering results.
+
+
+
 
 
 
